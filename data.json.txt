@@ -1,0 +1,38 @@
+{
+  "question": [
+    "Q1. Which sectors of stock should you invest in Corona-virus situation?",
+    "Q2. NO! The big storm is coming ,Which stock should you invest in this case?",
+    "Q3. Look at that big WAVE, the tsunami is coming!!,Which stock should you invest in?",
+    "Q4. The GOV increases the amount of Import tax,Which stock should you invest in?"
+    
+  ],
+  "answer": [
+    1,
+    4,
+    1,
+    2
+  ],
+  "options": [
+
+    ["Stocks in medical sector",
+      "Stocks in Im & Export sector",
+      "Stocks in digital & technology sector",
+      "Stocks in bank sector"
+    ],
+    ["Gold",
+      "Stocks in Real-Estate sector",
+      "Stocks in industrial sector",
+      "Stocks in digital & technology sector"
+    ],
+    ["Stocks in digital & technology sector",
+      "Stocks in Real-Estate sector",
+      "Gold",
+      "Stocks in industrial sector"
+    ],
+    ["Stocks in Im & Export sector",
+      "Gold",
+      "Stocks in medical sector",
+      "Stocks in digital & technology sector"
+    ]
+  ]
+}
